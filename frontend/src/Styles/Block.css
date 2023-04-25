@@ -1,0 +1,13 @@
+.caption {
+    width: 396px;
+    height: 50px;
+    border: 2px solid gray;
+    margin: auto;
+}
+
+.post {
+    width: 400px;
+    height: 400px;
+    margin: auto;
+    margin-top: 30px;
+}

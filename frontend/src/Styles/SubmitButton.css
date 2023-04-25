@@ -1,0 +1,29 @@
+.submit-button { 
+    /* Background color */
+    background-color: #a1bba4; 
+    
+    /* Text color */
+    color: white;
+    
+    /* Font size */
+    font-size: 14px;
+    
+   width: 10%;
+
+    
+    /* Border */
+    border-width: 2px;
+    /* Border radius */
+    border-radius: 20px;
+    
+    /* Hover effect */
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    
+    /* Add shadow on hover */
+    box-shadow: 0 0 10px #e5f1e6;
+
+ display: flex;
+  justify-content: center;
+    
+}
